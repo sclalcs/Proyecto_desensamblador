@@ -1,0 +1,12 @@
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\bin\Debug\Desensamblador.exe
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\bin\Debug\Desensamblador.pdb
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\bin\Debug\Desensamblador.xml
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.Form1.resources
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.Resources.resources
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.vbproj.GenerateResource.Cache
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.exe
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.xml
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\obj\Debug\Desensamblador.pdb
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\bin\Debug\SharpDisasm.dll
+C:\Users\ALCS\Documents\Visual Studio 2008\Projects\Desensamblador\Desensamblador\bin\Debug\SharpDisasm.xml
