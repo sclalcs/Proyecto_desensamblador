@@ -1,6 +1,6 @@
 ﻿# Utilidad de Desensamblado
 
-![Captura de la Utilidad](../Imagenes/desensamblador.png)
+![Captura de la Utilidad](../blob/Imagenes/desensamblador.png)
 
 ## Descripción
 
