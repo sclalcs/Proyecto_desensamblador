@@ -1,6 +1,6 @@
 ﻿# Utilidad de Desensamblado
 
-![Captura de la Utilidad](https://github.com/sclalcs/Proyecto_desensamblador/tree/main/Imagenes/Desensamblador.png)
+![Desensamblador](https://github.com/sclalcs/Proyecto_desensamblador/blob/main/Imagenes/Desensamblador.png)
 
 ## Descripción
 
@@ -38,4 +38,5 @@ Esta utilidad es un desensamblador desarrollado en **VB .NET 2008 Express Editio
 Este proyecto se distribuye bajo la licencia que el autor considere adecuada.
 
 ---
+
 
