@@ -1,6 +1,6 @@
 ﻿# Utilidad de Desensamblado
 
-![Captura de la Utilidad](../Imagenes/desensamblador.png)
+![Captura de la Utilidad](../Imagenes/Desensamblador.png)
 
 ## Descripción
 
@@ -39,4 +39,3 @@ Este proyecto se distribuye bajo la licencia que el autor considere adecuada.
 
 ---
 
-Si necesitas que añada más secciones, cambie el estilo o incluya la imagen integrada, dímelo.
