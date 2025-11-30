@@ -1,6 +1,6 @@
 ﻿# Utilidad de Desensamblado
 
-![Captura de la Utilidad](https://github.com/sclalcs/Proyecto_desensamblador/tree/main/Imagenes/)
+![Captura de la Utilidad](https://github.com/sclalcs/Proyecto_desensamblador/tree/main/Imagenes/Desensamblador.png)
 
 ## Descripción
 
